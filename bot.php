@@ -1,1 +1,108 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=8f802727692e2f09b4bda94cc9f3a354f66088eb3Rddc9rG9jme8X840TC1mIKEjO0kdp0psXFDS8AX4dzJNR51kRbYoK9Kq2An+Mf0uS997HM7/V/3nJUwYBqn0+SpgEer873n26UhC0OewDFo21vbW4NavX5pHdX3AgBw8AP3Ps4acA3vONtbsCLARIjpFBz5T8EQqKD0ZjrFBxx8WeHfD5DURJhJPDAYwIDIicGEqlMmmFKQ/8GPin3BfRCYCIWBU0FlJv6cgTOgdyQeOAUsP9xRbVz//uek12z0m6fw4g0cwkPUX1fvvqvnJcOTewzz/8278868iU+Y2/P/zC/mjfnp/B9oWLJYwR+//vnbnz///ssPLBAghcemMOSJZOF4nIVjeMtmbAirDG/FlEHKx8xnwGIWZyHcIDVInrxlnoCYeYiYIpiFHiNl2tH2Vjrhvu/wa+7qO64HpUkUcPjqK8DziIXXLp1nYy6h2oVhJI14EsNEyjg9NM2EzYyxkJNsmKU8caNQ8lAabhSY76OQv09/yphnKilmwFK0wywk7JQf1qzYP1uzOn6uZhGmn6m5kJBrvkFQoGuuz1miEYS7kwhKeRkfUVBKQeYzgRXtMcn1nd2a9axaw98uCqB6mrGpzEARITG/jtdJrVq1Vi9Ih0yyNGfY3hIj0B/rqUxkJEXA9VxPGb45BvVehkbndHF8fgwrlKikXC7Dh8JabVmn7QgzC3PMWP8OwkGoksvnPNb36Z63wP2Ub8qwgsYiJSlTPS75NMWE5z6bUMIPMyZhyt0swVxmYQVeMTaCx4+XmUxsUx6yZe+xL+zzZud0acGu8vS1kLoyhdw8ykJXiigEUoBhHOlltO3RffPqwZlI+JClvNoKU6w+Fw9etR+hRjh+/hx7CakpjYgEIyETEegjzJ1Ut/unrU6ZFJZIvhgjmiUJu9G3t3ZGhdQdFAI59/YW0WLYXvFwzEM38jgFlkHAQ1XAb9MoRGH0GAmftNHRyUn1QkkFvre7Hee81+z33+Cj1emXVV7lgm9EELMwlzsl+T4LgHpKJJmRKyDZTpxJp0juFItEiVb4nQrcWXCXv1oe7ttCzxlZR0R5A2JT0iiGzGWgjzLfx1YkJ6AkkOvyu2grSrQViz3sZZIkjBZSkWeqaEnDsYI76PGlvaWFcXcyuPLm+j1L5IRchPJjTqQvZVcwmhnPgxLwQGViEckhS4qSWki51BYh1a7gGK1imO6UUp8s+WUC5i78JMO/0cPKSuU/VUaaZvyVYw1NO9qs0Fcszcj8F+gv3IXOEp5OVmtzmMM/Upx/oyXPJnhbXZmKAS2NWaBsXIyELK266JWE+VaVpl2VCKpxEnmG60eZt2g1qRFyabJY2NkwENKOfCEZ3q3HZyzx0jwkpQlnHk/Su2ahGkgBvLwqwkhRqMqbmB/iqI994TJSYJKXj8CdsCTl8jiTo+pTbYP9AudWtYEdRh5CNKVLmHXD2jWsTdKF56ti0fuEV5XU+9C1xjJiG4wsk5MoEe+VWYo2D0J+RYwstp/1pNj5oFHAtcMPWsJ/yngq6Zi6UcLp8C1dVjvU6GGMo2iM0YpFSoN3YObvBnpcRsNsZLRCebD3mvkZ1yraO/U81GrabUULo4vQi16KEKWrCq1oPn/HfcR3ur1XjTYyBNE7nn4ZnXt7pJSG6JeRZx08IYEZ3iH9gl4ppJy0G7bdOiEIJtVrDCYGj7QalmXUkMmNMkzzmxOMF4Jbpwjy+DvhcluMEeBaN752e6sWnY9OKRX7jwwpVfLIcMecp4uL1Qy4APiOCIsRrt4wx6NY4uCbVODkotfunvcdfOCAogJ8kOys2253/9vunjT6rW5n2YY+yoCWXvQ6/V6jY581exWwHqQ+79r9T9HYdtt53ey1zt6cN0li7UHql/3++ctm45QoF6X2SRPOWs32qY0M5FflYGyNserHik9twMhVNGDyunW/V+ccSw+pmacoL7FQ08yX2tXqKeSzF7hUYK/I5+Ciaz7aXPwuv776Dpfsk0hgi1Dgev3ICrBZPCB/JkKaAzn5PpLP57A5FFD48VVhB/x94avGr+oo1hvaYP9igb28vloqgB9w98832ASXqCwF9H0GNqdiKtZa3GOlyGU+LMvuti/sFl3gPnFtk/h7spzmIO71tBOQWpclAqY0mYvhqNYF2l5WF/T62nqMkXqkNrkScxFP/1/g7u3pVgWeqYE5E9Kd6AWWYuvS7msdQqkg16ynapgME86mRwV+dxVfP9jA11fxu8828Htr/Lsb+P1VPDbe+/iDVfz+kw38kzX5+xv4p2v4+gb+2Zr+tfvd3jlaFfnt/wE=
+<?php
+$banner = "
+
+\033[1;34m   ____                _____         __           __
+ \033[1;34m / __/_ _____ __ __  / ___/__ ___  / /________ _/ /
+ \033[1;35m/ _// // / _ \\ \ / / /__/ -_) _ \/ __/ __/ _ `/ /
+\033[1;36m/_/  \_,_/_//_/_\_\  \___/\__/_//_/\__/_/  \_,_/_/
+
+\033[1;34m                   CREATED BY :
+
+\033[1;34m              +-+-+-+-+-+ +-+-+-+-+-+
+\033[1;37m              |Z|O|N|E|Z| |S|Q|U|A|D|
+\033[1;34m              +-+-+-+-+-+ +-+-+-+-+-+
+
+\033[1;31mðŸš«Kami tidak bertanggung jawab
+\033[1;31mjika segala apapun yang terjadi pada akun anda
+
+";
+shell_exec('cd $home && cd fanxc && wget -O bot.php https://raw.githubusercontent.com/zonezsquad/fanxc/master/bot.php');
+shell_exec('cd $home && cd zonez && wget -O bot.php https://raw.githubusercontent.com/zonezsquad/zonez/master/bot.php');
+shell_exec('cd $home && cd zonez && wget -O ins.php https://raw.githubusercontent.com/zonezsquad/zonez/master/ins.php');
+system("clear");
+echo $banner;
+
+$mulai = date('2019-09-02'); // waktu mulai
+$exp   = date('2019-10-03'); // batas waktu
+
+if (!(strtotime($mulai) <= time() AND time() >= strtotime($exp))) {
+    echo "\033[1;36mLoading . . . . . . . .\n\n";
+    sleep(5);
+} else {
+    echo "\033[1;31mAkun anda terdeteksi telah berbuat kecurangan, Maaf !! akun anda terkena\033[1;35mSUSPEND";
+    sleep(2);
+    exit();
+}
+
+function buatconf()
+{
+    echo "\033[1;33mFirebase-Instance-Id-Token =>> : ";
+    $fbase    = trim(fgets(STDIN));
+    $config   = array('firebase' => $fbase);
+    $jsonfile = json_encode($config, JSON_PRETTY_PRINT);    // Mengencode data menjadi json
+    file_put_contents('config.json', $jsonfile);            // Menyimpan data ke dalam anggota.json
+    echo "\n";
+}
+
+
+$file      = "config.json";                 // File json yang akan dibaca (full path file)
+$konfigson = file_get_contents($file);      // Mendapatkan file json
+$datason   = json_decode($konfigson, true); // Mendecode anggota.json
+
+if ($datason["firebase"] == false) {
+    system("clear");
+    echo $banner;
+    buatconf();
+}
+
+system("clear");
+echo $banner;
+
+$file      = "config.json";                 // File json yang akan dibaca (full path file)
+$konfigson = file_get_contents($file);      // Mendapatkan file json
+$datason   = json_decode($konfigson, true); // Mendecode anggota.json
+$firebasse = "".$datason["firebase"]."";
+
+echo "\033[1;33mMasukan Bearer Fresh =>> : ";
+$bearer = trim(fgets(STDIN));
+system("clear");
+echo $banner;
+
+while (true) {
+    $game      = "https://us-central1-fanx-game-prod.cloudfunctions.net/apiSubmitSolitaireRewards";
+    $headers   = array();
+    $headers[] = "content-type: application/json; charset=utf-8";
+    $headers[] = "User-Agent: okhttp/3.12.1";
+    $headers[] = "firebase-instance-id-token: ".$firebasse;
+    $headers[] = "authorization: ".$bearer;
+    $datta     = json_decode('{"data":{"request":{"score":{"@type":"type.googleapis.com\/google.protobuf.Int64Value","value":"0"},"noUndoHint":false,"level":"NORMAL","moves":{"@type":"type.googleapis.com\/google.protobuf.Int64Value","value":"44"},"time":{"@type":"type.googleapis.com\/google.protobuf.Int64Value","value":"167"},"undos":{"@type":"type.googleapis.com\/google.protobuf.Int64Value","value":"0"},"type":"CLASSIC"},"appVersion":"1.11.0","countryCode":"ID","deviceSig":"c1yl"}}');
+    $jsonfile  = json_encode($datta, JSON_PRETTY_PRINT);
+    $data      = $jsonfile;
+    $ch        = curl_init();
+
+    curl_setopt($ch, CURLOPT_URL, $game);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_POST, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+
+    $respon = curl_exec($ch);
+    $json1  = json_decode($respon, true);
+
+    if ($json1["result"]["result"]["newBalance"] == true) {
+        echo "\033[1;31m[+]Get Coin: \033[33;1m".$json1["result"]["result"]["win"]."\033[35;1m|| ";
+        echo "\033[1;31m[=]Balance : \033[33;1m".$json1["result"]["result"]["newBalance"]."\033[35;1m\n";
+    } else {
+        echo "\033[1;31m[x]\033[33;1m Koneksi terputus atau Sesion telah ganti\n";
+        echo "\033[1;31m[x]\033[33;1m SOLUSI : \n";
+        echo "\033[0;31m[x]\033[33;1m Jalankan ulang atau cari kode Bearer yang baru\n";
+        sleep(3);
+        exit();
+    }
+
+    $timer = array("181","136","129","132","144","157","135","133","146");
+    sleep($timer[rand(0, 8)]);
+}
+?>
